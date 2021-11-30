@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg enable-background="new 0 0 66.2222 100" version="1.1" viewBox="0 0 66.222 100" xml:space="preserve" xmlns="http://www.w3.org/2000/svg">
+<style type="text/css">
+	.st0{fill-rule:evenodd;clip-rule:evenodd;fill:#EF781F;}
+	.st1{fill-rule:evenodd;clip-rule:evenodd;fill:#D8D8D8;}
+	.st2{fill:#FFFFFF;}
+	.st3{fill-rule:evenodd;clip-rule:evenodd;fill:none;}
+	.st4{fill:#1D1D1B;}
+	.st5{font-family:'BarlowSemiCondensed-SemiBold';}
+	.st6{font-size:8.5px;}
+	.st7{fill:none;}
+	.st8{fill:#1E1E1C;}
+</style>
+
+	
+		
+			
+				
+					<path class="st0" d="m31.942 55.496 0.9202-26.352c14.554 0.5082 25.94 12.718 25.432 27.272s-12.718 25.94-27.272 25.432-25.94-12.718-25.432-27.272c0.4544-13.011 9.79-23.379 22.682-25.191l3.6697 26.112z"/>
+				
+			
+			
+				
+					<path class="st1" d="m31.942 55.496-3.6697-26.112c1.5142-0.2128 3.0618-0.2939 4.59-0.2406l-0.9203 26.352z"/>
+				
+			
+		
+		
+			
+			
+		
+	
+	<circle class="st2" cx="32" cy="55.844" r="16.773"/>
+
+
+
+	<rect class="st3" x="24.162" y="15.858" width="15.675" height="6.0419"/>
+	<text class="st4 st5 st6" transform="translate(26.517 21.808)">2%</text>
+
+
+	
+		<rect class="st7" transform="matrix(.9999 -.0101 .0101 .9999 -.5716 .3261)" x="16.902" y="48.234" width="30.195" height="17.045"/>
+	<text transform="matrix(.9999 -.0101 .0101 .9999 24.49 54.259)"><tspan class="st8 st5 st6" x="0" y="0">98%</tspan><tspan class="st8 st5 st6" x="-4.1992" y="9">Bambú</tspan></text>
+
+
+	<path class="st4" d="m31.938 55.496"/>
+
+</svg>
